@@ -34,7 +34,7 @@ In practice, VaR isn’t about a single number — it’s a **layered view of ri
 | **Historical VaR** | Uses empirical quantiles from portfolio returns | 99% |
 | **Expected Shortfall (CVaR)** | Averages losses beyond VaR threshold — tail damage | 99% |
 | **Stressed VaR** | Finds maximum VaR over worst-case rolling window (e.g. 60 days) | 99% |
-| **Variance-Covariance VaR** | Uses analytical formula: portfolio volatility × Z-score × √t | 95% / 99% |
+| **Variance-Covariance VaR** | Uses analytical formula: portfolio volatility × Z-score × √t | 99% |
 
 ---
 
